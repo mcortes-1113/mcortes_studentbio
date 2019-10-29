@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
+
+p{
+    font-size: 16px;
+}
+
+ul{
+    font-size: 14px;
+}
